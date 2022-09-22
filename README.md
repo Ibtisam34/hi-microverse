@@ -26,13 +26,13 @@ To get a local copy up and running follow these simple example steps.
 
 
 
-## Authors
+## Author
 
-👤 **Author1**
+👤 **riyana**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/ibtisam34)
+- Twitter: [@twitterhandle](https://twitter.com/Queenrjin12)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/riyanagwl2)
 
  
 
